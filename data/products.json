@@ -1,0 +1,16 @@
+[
+    {
+        "id": "12345",
+        "title": "Book",
+        "imageUrl": "https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1655&q=80",
+        "description": "This is an awesome book!!!",
+        "price": "15"
+    },
+    {
+        "id": "0.36114844918300193",
+        "title": "A glass",
+        "imageUrl": "https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1655&q=80",
+        "description": "A glass that's classy",
+        "price": "30"
+    }
+]
