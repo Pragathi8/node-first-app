@@ -6,3 +6,5 @@ const sequelize = new Sequelize("node-complete", "root", "admin123", {
 });
 
 module.exports = sequelize;
+
+//to test SSH
