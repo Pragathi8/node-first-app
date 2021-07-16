@@ -1,4 +1,4 @@
-const { Sequelize } = require("sequelize");
+const Sequelize = require("sequelize");
 
 const sequelize = new Sequelize("node-complete", "root", "admin123", {
   dialect: "mysql",
@@ -6,5 +6,3 @@ const sequelize = new Sequelize("node-complete", "root", "admin123", {
 });
 
 module.exports = sequelize;
-
-//to test SSH
